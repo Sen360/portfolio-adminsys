@@ -5,7 +5,7 @@ ienvenue sur mon portfolio GitHub ! Ici, vous trouverez plusieurs projets démon
 ## 🔹 Projets Clés :
 1. [💼 Gestion Active Directory avec PowerShell](https://github.com/Sen360/windows-administration.git)  
 2. [☁️ Automatisation Proxmox + Sauvegarde](https://github.com/Sen360/virtualisation-proxmox.git)  
-3. [🔒 Sécurisation Réseau avec OpenVPN & Firewall](https://github.com/mon-profil/networking-firewall)  
+3. [🔒 Sécurisation Réseau avec OpenVPN & Firewall](https://github.com/Sen360/networking-firewall.git)  
 4. [📊 Supervision Zabbix & Grafana](https://github.com/mon-profil/monitoring-supervision)  
 
 💡 **Je suis à la recherche d'opportunités en administration système et cybersécurité. 
